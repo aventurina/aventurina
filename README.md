@@ -22,6 +22,7 @@ As an AI enthusiast, Claude and ChatGPT are part of how I build software:
 6. I check that it actually matches how the app behaves, fill in anything missed, and rewrite it in my own voice before it's final.
 
 **Recent Work**
+- Wrote a tutorial on building a RAG chatbot with local embeddings and the Claude API, published on my AI learning blog: [Building a RAG Chatbot with Local Embeddings and the Claude API](https://ai-with-aimee.vercel.app/blog/rag-tutorial)
 - Built and documented a set of portfolio projects spanning authentication APIs, AI-assisted tools, and deployed full-stack apps
 - Ongoing volunteer software development work, including GUI development and documentation for an internal tooling project
 - Supporting a small IT company as project manager/engineer, bridging technical work and client-facing communication
