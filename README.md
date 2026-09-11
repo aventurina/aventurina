@@ -5,7 +5,7 @@ Software Engineer with extensive hands-on experience in full-stack development. 
 Whether I'm writing code or writing docs, I care about the same thing: does it work, and can the next person understand it. I've written API documentation, developer-facing READMEs, and internal knowledge bases at every team I've been on.
 
 **What I Work With**
-- Languages & Frameworks: Python (Flask), JavaScript(React, Node.js, Vanilla JS), Astro
+- Languages & Frameworks: Python (Flask), JavaScript(React, Node.js, Express, Vanilla JS), Astro
 - Databases: SQLite
 - Documentation: API references, developer READMEs, Confluence and GitLab knowledge bases
 - AI tooling: hands-on integration experience with the Claude API
