@@ -11,6 +11,7 @@ Whether I'm writing code or writing docs, I care about the same thing: does it w
 - AI tooling: hands-on integration experience with the Claude API
 
 **How I Work**
+
 As an AI enthusiast, Claude and ChatGPT are part of how I build software:
 
 1. Before starting a project, I talk through the idea, tech stack, and workflow with both, then have them each put together a plan.
