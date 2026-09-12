@@ -21,6 +21,8 @@ As an AI enthusiast, Claude and ChatGPT are part of how I build software:
 5. I compare the two and go with whichever is better, or combine the strongest parts of both.
 6. I check that it actually matches how the app behaves, fill in anything missed, and rewrite it in my own voice before it's final.
 
+I've also written up a fuller version of this workflow as a guide for other engineers: [AI-assisted development: a practical workflow](https://github.com/aventurina/documentation-style-guide/blob/main/ai-workflow-guide.md)
+
 **Recent Work**
 - Wrote a tutorial on building a RAG chatbot with local embeddings and the Claude API, published on my AI learning blog: [Building a RAG Chatbot with Local Embeddings and the Claude API](https://ai-with-aimee.vercel.app/blog/rag-tutorial)
 - Built and documented a set of portfolio projects spanning authentication APIs, AI-assisted tools, and deployed full-stack apps
